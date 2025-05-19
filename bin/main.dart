@@ -1,16 +1,16 @@
-import 'dart:io';
-// import 'package:dart_application_1/klub_buku.dart';
-// import 'package:dart_application_1/penilaian_kelulusan_mahasiswa.dart';
-import 'package:dart_application_1/doWhileLoop.dart';
-import 'package:dart_application_1/forEachLoop.dart';
-import 'package:dart_application_1/forInLoop.dart';
-import 'package:dart_application_1/forLoop.dart';
-import 'package:dart_application_1/listLoop.dart';
-import 'package:dart_application_1/nameLoop.dart';
-import 'package:dart_application_1/oddNumberLoop.dart';
-import 'package:dart_application_1/printCharLoop.dart';
-import 'package:dart_application_1/shoppingListLoop.dart';
-import 'package:dart_application_1/whileLoop.dart';
+// import 'dart:io';
+// import 'package:ppkdjp_mpro_dart/klub_buku.dart';
+// import 'package:ppkdjp_mpro_dart/penilaian_kelulusan_mahasiswa.dart';
+// import 'package:ppkdjp_mpro_dart/doWhileLoop.dart';
+// import 'package:ppkdjp_mpro_dart/forEachLoop.dart';
+// import 'package:ppkdjp_mpro_dart/forInLoop.dart';
+// import 'package:ppkdjp_mpro_dart/forLoop.dart';
+// import 'package:ppkdjp_mpro_dart/whileLoop.dart';
+import 'package:ppkdjp_mpro_dart/listLoop.dart';
+import 'package:ppkdjp_mpro_dart/nameLoop.dart';
+import 'package:ppkdjp_mpro_dart/oddNumberLoop.dart';
+import 'package:ppkdjp_mpro_dart/printCharLoop.dart';
+import 'package:ppkdjp_mpro_dart/shoppingListLoop.dart';
 
 void main(List<String> arguments) {
   /* Membuat variabel untuk menyimpan data.
