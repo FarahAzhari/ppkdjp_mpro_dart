@@ -1,5 +1,16 @@
+import 'dart:io';
 // import 'package:dart_application_1/klub_buku.dart';
-import 'package:dart_application_1/penilaian_kelulusan_mahasiswa.dart';
+// import 'package:dart_application_1/penilaian_kelulusan_mahasiswa.dart';
+import 'package:dart_application_1/doWhileLoop.dart';
+import 'package:dart_application_1/forEachLoop.dart';
+import 'package:dart_application_1/forInLoop.dart';
+import 'package:dart_application_1/forLoop.dart';
+import 'package:dart_application_1/listLoop.dart';
+import 'package:dart_application_1/nameLoop.dart';
+import 'package:dart_application_1/oddNumberLoop.dart';
+import 'package:dart_application_1/printCharLoop.dart';
+import 'package:dart_application_1/shoppingListLoop.dart';
+import 'package:dart_application_1/whileLoop.dart';
 
 void main(List<String> arguments) {
   /* Membuat variabel untuk menyimpan data.
@@ -26,10 +37,24 @@ void main(List<String> arguments) {
   // );
 
   //Input Nilai
-  int uts = 90;
-  int uas = 90;
-  double kehadiran = 60;
+  // int uts = 90;
+  // int uas = 90;
+  // double kehadiran = 60;
 
-  // Panggil fungsi untuk menentukan kelulusan
-  calculateScore(uts, uas, kehadiran);
+  // // Panggil fungsi untuk menentukan kelulusan
+  // calculateScore(uts, uas, kehadiran);
+
+  // Looping
+  // forLoop();
+  // whileLoop();
+  // doWhileLoop();
+  // forInLoop();
+  // forEachLoop();
+
+  // Tugas 3
+  oddNumber();
+  printChar();
+  nameLoop();
+  listLoop();
+  shoppingListLoop();
 }
